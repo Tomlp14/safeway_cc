@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">acromine</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="empty" />
+    <string name="enter_the_acronym">Enter the Acronym</string>
+</resources>
